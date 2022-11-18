@@ -8,7 +8,7 @@ const Place = ({ isOpen, setIsOpen }) => {
 	return (
 		<PlaceStyles>
 			<div className="options">
-				{/* <ul>
+				<ul>
 					<li>Resturant</li>
 					<li>Cottage</li>
 					<li>Castle</li>
@@ -17,7 +17,7 @@ const Place = ({ isOpen, setIsOpen }) => {
 					<li>Carbins</li>
 					<li>Off-grid</li>
 					<li>Farm</li>
-				</ul> */}
+				</ul>
 
 				<button type="button">
 					Location
