@@ -1,21 +1,8 @@
-<h1>Meta bnb task </h1>
+# React + Vite
 
-<p>HNGi9 stage3 task.</p>
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-<a href="https://zee-metabnb.netlify.app/" target="_blank">Live site</a>
+Currently, two official plugins are available:
 
-<h3>Quick start</h3>
-
-Clone the repository to your computer
-
-<h4>Installation</h4>
-
-<p>Ensure you have Node js installed on your computer</p>
-
-<p>Install project dependencies using:</p>
-
-<pre>npm install</pre>
-
-<p>start the development server using</p>
-
-<pre>npm run dev </pre>
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
