@@ -26,38 +26,23 @@ const Nft = styled.div`
 
   p {
     font-weight: 400;
-    font-size: 10px;
-    line-height: 13px;
+    font-size: 0.875rem;
     color: #434343;
   }
 
   h6 {
     font-weight: 700;
-    font-size: 10px;
-    line-height: 13px;
+    font-size: 0.9rem;
     color: #434343;
   }
 
   @media (min-width: 768px) {
     padding: 1rem;
-    font-size: 0.7rem;
   }
 
   @media (min-width: 1024px) {
     margin: 0;
     padding: 0.7rem;
-
-    p,
-    h6 {
-      font-size: 0.6rem;
-    }
-  }
-
-  @media (min-width: 1200px) {
-    p,
-    h6 {
-      font-size: 0.7rem;
-    }
   }
 `;
 

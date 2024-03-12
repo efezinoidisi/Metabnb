@@ -1,4 +1,4 @@
-import { createGlobalStyle } from "styled-components";
+import { createGlobalStyle } from 'styled-components';
 
 const GlobalStyles = createGlobalStyle`
     
@@ -10,8 +10,9 @@ const GlobalStyles = createGlobalStyle`
     
     body {
         max-width : 100vw;
-        font-family: 'Red Rose', cursive;
+        font-family: 'Red Rose', sans-serif;
         font-style: normal;
+        font-weight: 400;
     }
     
 `;
